@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6478aaf-37bb-4d08-9f69-22db0890690d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/views/notes/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/views/notes/update.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/installation/README.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +73,7 @@
       <workItem from="1598795854965" duration="21177000" />
       <workItem from="1598883265944" duration="11453000" />
       <workItem from="1598918977785" duration="4139000" />
-      <workItem from="1598971930972" duration="800000" />
+      <workItem from="1598971930972" duration="1558000" />
     </task>
     <servers />
   </component>

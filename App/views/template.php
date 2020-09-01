@@ -32,7 +32,7 @@
 
             <?php
             if(isset($_SESSION['logged'])): ?>
-            <li><a href="/notes/create">Create News</a></li>
+            <li><a href="/notes/create">Create Diary</a></li>
             <li><a href="/users/create">Create New User</a></li>
             <?php endif; ?>
 

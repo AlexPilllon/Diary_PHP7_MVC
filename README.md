@@ -7,7 +7,9 @@
 -> Composer caso for rodar local (dar um update antes);
 
 
-### Passo 1: Clone o repositório no site ou subdomínio que deseje instalar a aplicação; 
+### Passo 1: 
+
+Clone o repositório no site ou subdomínio que deseje instalar a aplicação; 
 
 ### Passo 2: 
 

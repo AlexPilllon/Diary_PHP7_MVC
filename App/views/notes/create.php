@@ -1,6 +1,6 @@
 
 <div class="row container">
-<h1>Create a New News</h1>
+<h1>Create a New Diary</h1>
 
 <?php
 

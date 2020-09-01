@@ -28,7 +28,7 @@
         <a href="#" class="brand-logo">MVC</a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
 
-            <li> <a href="/">Block News</a> </li>
+            <li> <a href="/">Block Diary</a> </li>
 
             <?php
             if(isset($_SESSION['logged'])): ?>

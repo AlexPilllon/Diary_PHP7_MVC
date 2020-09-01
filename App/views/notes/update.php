@@ -1,5 +1,5 @@
 
-<h1>Update the News</h1>
+<h1>Update the Diary</h1>
 
 <div class="row container">
 <?php
